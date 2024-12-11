@@ -47,5 +47,5 @@ To set up the website locally:
 
 
 ## Author
-**Mupparisetty Bhargav**
-**Murari Hari Narayana**
+- **Mupparisetty Bhargav**
+- **Murari Hari Narayana**
