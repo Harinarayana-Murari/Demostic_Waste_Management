@@ -44,3 +44,8 @@ To set up the website locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/Bhargavmupparisetty/Domestic-Waste-Management.git
+
+
+Contributed By:
+Mupparisetty Bhargav
+Murari Hari Narayana
