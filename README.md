@@ -46,6 +46,6 @@ To set up the website locally:
    git clone https://github.com/Bhargavmupparisetty/Domestic-Waste-Management.git
 
 
-Contributed By:
-Mupparisetty Bhargav
-Murari Hari Narayana
+## Author
+**Mupparisetty Bhargav**
+**Murari Hari Narayana**
